@@ -1,0 +1,151 @@
+﻿
+<!DOCTYPE html>
+<html>
+<body>
+
+<head>
+  <meta charset="utf-8">
+  <style>
+   body {
+    color: #ffffff
+   }
+  </style>
+ </head>
+ <body>
+  
+ 
+<center>
+<h1>ЧЕЧЕНСКАЯ ДОМАШКА ПО ИНФЕ feat. zxcursed</h1>
+<center>
+
+<center>
+<p>Песня про СФ</p>
+<center>
+
+<center>
+<p>Фотографирую закат<br>
+Будто пару лет назад<br>
+Без тебя без тебя<br>
+Без тебя-я-я</p>
+<center>
+
+<center>
+<p>Фотографирую закат<br>
+Будто пару лет назад<br>
+Без тебя без тебя<br>
+Без тебя-я-я</p>
+<center>
+
+<center>
+<p>Уйди, в моем сердце свечи гаснут<br>
+Становлюсь холодным<br>
+Молчи, все не вечно, все не важно<br>
+Я умру свободным</p>
+<center>
+
+<center>
+<p>Я не вижу лиц<br>
+Я вижу твое нутро<br>
+И среди него мне не нравится ничего<br>
+Просто прекрати пос-пос-посещать мои е*аные сны</p>
+<center>
+
+<center>
+<p>Фотографирую закат<br>
+Будто пару лет назад<br>
+Без тебя без тебя<br>
+Без тебя-я-я</p>
+<center>
+
+<center>
+<p>Фотографирую закат<br>
+Будто пару лет назад<br>
+Без тебя без тебя<br>
+Без тебя-я-я</p>
+<center>
+
+</body>
+</html>
+
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CJcz_igOwR4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center> 
+ 
+
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Фон</title>
+  <style>
+   body {
+    background:url(fcdd.jpg)
+   }
+  </style>
+ </head>
+ <body>
+ </body>
+</html>
+
+
+<audio controls>
+    <source src="music.ogg" type="audio/ogg; codecs=vorbis">
+    <source src="music.mp3" type="audio/mpeg">
+    <source src="music.wav" type="audio/wav">
+    <source src="music.aac" type="audio/aac; codecs=vorbis">
+</audio>
+<center>
+<a href="123.mp3">Щелкни </a>
+<center>
+
+<table border="2" bordercolor="ffcc00" width="1000" bgcolor="000000">
+<tr>
+<td> row 1, column 1 </td>
+<td> row 1, column 2 </td>
+<td> row 1, column 3 </td>
+<td> row 1, column 4 </td>
+</tr>
+<tr>
+<td> row 2, column 1 </td>
+<td> row 2, column 2 </td>
+<td> row 2, column 3 </td>
+<td> row 2, column 4 </td>
+</tr>
+<tr>
+<td> row 3, column 1 </td>
+<td> row 3, column 2 </td>
+<td> row 3, column 3 </td>
+<td> row 3, column 4 </td>
+</tr>
+<tr>
+<td> row 4, column 1 </td>
+<td> row 4, column 2 </td>
+<td> row 4, column 3 </td>
+<td> row 4, column 4 </td>
+</tr>
+<tr>
+<td> row 5, column 1 </td>
+<td> row 5, column 2 </td>
+<td> row 5, column 3 </td>
+<td> row 5, column 4 </td>
+</tr>
+<tr>
+<td> row 6, column 1 </td>
+<td> row 6, column 2 </td>
+<td> row 6, column 3 </td>
+<td> row 6, column 4 </td>
+</tr>
+<tr>
+<td> row 7, column 1 </td>
+<td> row 7, column 2 </td>
+<td> row 7, column 3 </td>
+<td> row 7, column 4 </td>
+</tr>
+<tr>
+<td> row 8, column 1 </td>
+<td> row 8, column 2 </td>
+<td> row 8, column 3 </td>
+<td> row 8, column 4 </td>
+</tr>
+</table>
